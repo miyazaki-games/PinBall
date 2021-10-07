@@ -1,0 +1,30 @@
+[api-updater (non-obsolete-error-filter)] 2021/10/06 22:09:08 : Starting /Volumes/Untitled/UnityVerion/2020.3.3f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 281.41ms
+moved types parse time: 79ms
+candidates parse time : 1ms
+C# parse time         : 322ms
+candidates check time : 29ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2021/10/06 22:11:07 : Starting /Volumes/Untitled/UnityVerion/2020.3.3f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 78.682ms
+moved types parse time: 99ms
+candidates parse time : 2ms
+C# parse time         : 323ms
+candidates check time : 59ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2021/10/06 22:13:19 : Starting /Volumes/Untitled/UnityVerion/2020.3.3f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 62.957ms
+moved types parse time: 51ms
+candidates parse time : 1ms
+C# parse time         : 229ms
+candidates check time : 41ms
+console write time    : 0ms
+
