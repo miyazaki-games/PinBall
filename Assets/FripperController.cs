@@ -18,7 +18,7 @@ public class FripperController : MonoBehaviour
 
         SetAngle(this.defaultAngle);
     }
-
+    
     void Update()
     {
         if ((Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.A))
@@ -108,7 +108,7 @@ public class FripperController : MonoBehaviour
         }
 #endif
     }
-
+    
     public void SetAngle(float angle)
     {
         JointSpring jointSpr = this.myHingeJoint.spring;
